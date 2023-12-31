@@ -26,21 +26,10 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #1b0c70;
+    color: #ffffff;
     font-weight: bold;
 }
 
-nav b {
-    text-decoration: none;
-    color: #dac71f;
-    font-weight: bold;
-}
-
-nav c {
-    text-decoration: none;
-    color: #ca0a0a;
-    font-weight: bold;
-}
 main {
     display: flex;
     flex-wrap: wrap;
