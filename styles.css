@@ -57,7 +57,7 @@ main {
 }
 
 .produto img {
-    max-width: 100%;
+    max-width: 75%;
     height: auto;
 }
 
@@ -89,4 +89,9 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+a {
+    color: #fff
+
 }
